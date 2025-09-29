@@ -1,3 +1,0 @@
-# first-repository
-## git config
-
